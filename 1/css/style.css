@@ -1,0 +1,16 @@
+.container {
+  background: white; 
+}
+
+header .header {
+  height: 200px;
+  background: url("../img/960_logo.png") 50% 50%;
+  background-size: 20%;
+  background-repeat: no-repeat;
+  background-color: pink; 
+}
+
+.block {
+  height: 100px;
+  background: pink; 
+}
